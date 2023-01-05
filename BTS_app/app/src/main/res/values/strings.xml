@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">BTS_app</string>
+    <string name="todo">TODO</string>
 </resources>
