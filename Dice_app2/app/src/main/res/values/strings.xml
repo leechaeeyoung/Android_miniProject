@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dice_app</string>
+    <string name="dice_text">인생은 주사위 한방에 가는거 아니겠습니까?</string>
+    <string name="buttonText">인생고고</string>
+</resources>
