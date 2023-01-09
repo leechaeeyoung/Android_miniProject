@@ -9,3 +9,7 @@
 
 
 ![ezgif_com-gif-maker_AdobeExpress](https://user-images.githubusercontent.com/94501397/210915548-c68389a9-42f8-4a0e-ad17-7f0fb3b19814.gif)
+
+
+### 3, 주사위 앱 만들기 (Data Binding이용)
+![화면_기록_2023-01-09_오전_10_20_15_AdobeExpress](https://user-images.githubusercontent.com/94501397/211229004-35739792-cba6-4dec-92e9-530a8d0ab50c.gif)
