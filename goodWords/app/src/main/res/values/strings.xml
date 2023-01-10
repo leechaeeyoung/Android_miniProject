@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">goodWords</string>
+    <string name="goodwords">전체명언보기</string>
+    <string name="textPo">멍언이 들어갈 자리입니다.</string>
+</resources>
