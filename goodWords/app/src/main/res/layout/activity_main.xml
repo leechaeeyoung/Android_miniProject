@@ -26,9 +26,10 @@
             android:fontFamily="@font/bm_jua"
             android:textColor="@color/white"
             android:textSize="30sp"
-            tools:layout_editor_absoluteX="40dp"
-            tools:layout_editor_absoluteY="345dp"
-            tools:ignore="MissingConstraints" />
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"/>
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 </layout>
