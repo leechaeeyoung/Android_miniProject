@@ -16,4 +16,7 @@
 - - - 
 
 ### 4. 명언 앱 만들기 (ListView 이용)
-![화면_기록_2023-01-12_오후_3_31_54_AdobeExpress](https://user-images.githubusercontent.com/94501397/211996093-4502753a-80ec-4065-a4e8-26f6125dcdd5.gif)
+
+![화면_기록_2023-01-12_오후_3_31_54_AdobeExpress](https://user-images.githubusercontent.com/94501397/211996381-7da6161a-75da-4176-b56a-5f2878907415.gif)
+
+
