@@ -4,8 +4,11 @@ import android.content.Intent
 import android.content.IntentSender.SendIntentException
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.util.Log
 import androidx.databinding.DataBindingUtil
 import com.example.goodwords.databinding.ActivityMainBinding
+import java.lang.Math.random
+import java.lang.StrictMath.random
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding : ActivityMainBinding
@@ -24,10 +27,13 @@ class MainActivity : AppCompatActivity() {
         sentenceList.add("두 개의 화살을 갖지 마라. 두 번째 화살이 있기 때문에 첫번째 화살에 집중하지 않게 된다.")
         sentenceList.add("뛰어난 말에게도 채찍이 필요하다.")
 
+
         binding = DataBindingUtil.setContentView(this,R.layout.activity_main)
         binding.showBtn.setOnClickListener {
             val intent = Intent(this,sentenceActivity::class.java)
             startActivity(intent)
         }
+
+        binding.goodWordArea.text = sentenceList.random()
     }
 }
