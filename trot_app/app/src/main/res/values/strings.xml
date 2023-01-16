@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">trot_app</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="singer1">영탁</string>
+    <string name="singer2">영웅</string>
+    <string name="singer3">가인</string>
 </resources>
